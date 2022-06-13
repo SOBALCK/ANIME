@@ -1,0 +1,85 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <meta cherset="utf-8">
+  <title>es tut mir leid allah</title>
+</head>
+
+<body>
+  <h1>KHALIFA IBRAHIM</h1>
+  <p><em>
+      mensieur <strong>hamza onisama</strong> gominasay watachiwa baka
+    </em></p>
+  <hr>
+  <h3>BEST PLAYERS RANKING</h3>
+  <a href="https://www.kooora.com/default.aspx">you can watch all footbal news from this website</a>
+  <ul>
+    <li>messi</li>
+    <li>crisrtiano ronaldo</li>
+    <li>karim benzima</li>
+  </ul>
+  <h3>hello in all my languages</h3>
+  <ul>
+    <li>hello</li>
+    <ol type="1  " start="5">
+      <li>english</li>
+      <li>spanish</li>
+      <li>deutsch</li>
+    </ol>
+
+    <li>hallo</li>
+    <li>ohayo</li>
+    <li>مرحبا</li>
+    <li>bonjour</li>
+    <li>ni hao</li>
+
+
+  </ul>
+  <a href="my animes.html">my animes</a>
+  <table>
+    <tr>
+      <td>2009</td>
+      <td>2014</td>
+      <td>2018</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>my begining</td>
+      <td>my stopping</td>
+      <td>my back</td>
+      <td>my profasional career</td>
+    </tr>
+  </table>
+  <table>
+    <thead>
+      <tr>
+        <th>YEAR</th>
+        <th>CERTEFICATE</th>
+        <th>NOTE</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>2017</td>
+        <td>bac</td>
+        <td>10.46</td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td>2021</td>
+        <td>deplome ofppt</td>
+        <td>13.54</td>
+      </tr>
+    </tfoot>
+
+
+
+
+  </table>
+
+
+</body>
+
+</html>
